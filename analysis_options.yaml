@@ -31,6 +31,7 @@ linter:
     - package_api_docs
     - public_member_api_docs
     - missing_whitespace_between_adjacent_strings
+    - unawaited_futures
 
 #   exclude:
 #     - path/to/excluded/files/**

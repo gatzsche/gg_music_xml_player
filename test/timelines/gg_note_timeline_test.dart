@@ -32,8 +32,10 @@ void main() {
           expect(items[4].data, [timeline.part.measures[1].notes[3]]);
 
           // Last bar
-          expect(items[items.length - 2].data.last,
-              timeline.part.measures.last.notes.last,);
+          expect(
+            items[items.length - 2].data.last,
+            timeline.part.measures.last.notes.last,
+          );
         });
       });
 
