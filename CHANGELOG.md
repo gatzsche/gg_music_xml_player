@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Added
+
+- 'publish\_to: none for private repositories'
+
 ### Changed
 
 - Rework changelog
