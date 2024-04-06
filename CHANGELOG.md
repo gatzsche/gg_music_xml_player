@@ -5,6 +5,7 @@
 ### Changed
 
 - Rework changelog
+- 'Github Actions Pipeline'
 
 ## 1.0.1 - 2024-01-01
 
