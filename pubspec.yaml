@@ -1,6 +1,6 @@
 name: gg_music_xml_player
 description: Reads music XML files and plays out note events in real time.
-version: 0.0.1
+version: 1.0.1
 repository: https://github.com/inlavigo/gg_music_xml_player
 publish_to: none
 
