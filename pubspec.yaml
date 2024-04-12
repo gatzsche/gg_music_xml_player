@@ -20,7 +20,6 @@ dependencies:
 dev_dependencies:
   args: ^2.4.2
   gg_capture_print: ^1.0.2
-  gg_install_gg: ^1.0.1
   lints: ^3.0.0
   mocktail: ^1.0.3
   pana: ^0.22.2
